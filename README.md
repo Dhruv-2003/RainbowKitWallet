@@ -10,6 +10,7 @@ Now you can integrate wallet connection to your Web3 Dapp in just 5 Steps.
 
 ![RainbowKit](https://www.rainbowkit.com/_next/image?url=%2Fhero-docs.png&w=3840&q=75)
 
+
 ## Why should you use 
 
 - Out of the box wallet management 
@@ -120,7 +121,7 @@ export const YourApp = () => {
 
 For more customizability and reference : https://www.rainbowkit.com/docs/introduction
 
-
+![Wallet Connect](https://pbs.twimg.com/media/FVcZcwrUEAEpkOE?format=png&name=small)
 
 
     
